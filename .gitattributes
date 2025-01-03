@@ -1,3 +1,4 @@
 ﻿*.js linguist-language=ignore
+﻿*.css linguist-language=ignore
 *.py linguist-language=Python
 
